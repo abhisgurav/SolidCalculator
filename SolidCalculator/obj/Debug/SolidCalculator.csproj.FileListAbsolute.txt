@@ -1,0 +1,7 @@
+D:\Abhinay\Pro\SolidCalculator\bin\Debug\SolidCalculator.exe.config
+D:\Abhinay\Pro\SolidCalculator\bin\Debug\SolidCalculator.exe
+D:\Abhinay\Pro\SolidCalculator\bin\Debug\SolidCalculator.pdb
+D:\Abhinay\Pro\SolidCalculator\obj\Debug\SolidCalculator.csproj.AssemblyReference.cache
+D:\Abhinay\Pro\SolidCalculator\obj\Debug\SolidCalculator.csproj.CoreCompileInputs.cache
+D:\Abhinay\Pro\SolidCalculator\obj\Debug\SolidCalculator.exe
+D:\Abhinay\Pro\SolidCalculator\obj\Debug\SolidCalculator.pdb
